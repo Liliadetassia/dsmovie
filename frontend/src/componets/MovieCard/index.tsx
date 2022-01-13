@@ -1,4 +1,5 @@
 import MovieScore from "componets/MovieScore";
+import { Link } from "react-router-dom";
 
 function MovieCard() {
 
